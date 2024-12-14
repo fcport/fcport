@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/smGCEo5zsAXtK4bqAT" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWEydGxjNjl2eTdwOWY3czZ1b2VsMjh3Z2RoamtlYmZ6ZnZmOXYybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" />
+</div>
 <h1 align="center">Hi 👋, I'm Federico Casadei</h1>
 <h3 align="center">Frontend Engineer (aka colours engineer) 💻, astrophotography 🔭, Kung Fu passionate (Pak Hok Pai yat gar) 🐉, intense dungeon mastering 🧝🏻.</h3>
 
